@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.taghavi.circularreveal"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.taghavi.circularreveal"
